@@ -8,19 +8,20 @@
 
 ---
 # 1. 언어
-<img src="images/html.png" width="5%">
 
 **HTML** (Hyper Text Markup Language)
 <br>
 웹사이트를 만들때 쓰이는 마크업 언어
 
-<img src="images/css.png" width="5%">
-
 **CSS** (Cascading Style Sheet)
 <br>
 웹사이트를 꾸밀때 쓰이는 스타일 시트 언어
 
-<img src="images/js.png" width="5%">
+**SASS** (Syntatically Awsome Style Sheet)
+<br>
+CSS 전처리기, Less, Stylus 와 함께 CSS 전처리기 3대장을 맡고 있다
+>컴퓨터 과학에서 전처리기(前處理器) 또는 프리컴파일러영어: preprocessor)는 입력 데이터를 처리하여 다른 프로그램에 대한 입력으로서 사용되는 출력물을 만들어내는 프로그램이다.
+>-Wikipedia-
 
 **JavaScript** (JS)
 <br>
@@ -28,3 +29,8 @@
 >JavaScript와 ECMAScript의 차이
 >ECMAScript는 ECMA (European Computer Manufacturer Association)에서 지정한 ECMA-262 기술 규격에 정의된 범용 스크립트 언어입니다.
 >더 자세한거는 (https://wormwlrm.github.io/2018/10/03/What-is-the-difference-between-javascript-and-ecmascript.html)참고!
+
+**TypeScript** (TS)
+<br>
+Microsoft에서 관리하고 있는 자바스크립트 상위 언어, 자바스크립트와 다르게 타입을 명시할 수 있다는 점이 제일 큰 차이점이다
+
