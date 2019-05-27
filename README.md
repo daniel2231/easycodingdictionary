@@ -8,19 +8,19 @@
 
 ---
 # 1. 언어
-<img src="../images/html.png" width="5%">
+<img src="images/html.png" width="5%">
 
 **HTML** (Hyper Text Markup Language)
 <br>
 웹사이트를 만들때 쓰이는 마크업 언어
 
-<img src="../images/css.png" width="5%">
+<img src="images/css.png" width="5%">
 
 **CSS** (Cascading Style Sheet)
 <br>
 웹사이트를 꾸밀때 쓰이는 스타일 시트 언어
 
-<img src="../images/js.png" width="5%">
+<img src="images/js.png" width="5%">
 
 **JavaScript** (JS)
 <br>
