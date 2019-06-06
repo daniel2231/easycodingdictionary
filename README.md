@@ -14,6 +14,8 @@
   - [HTML (Hyper Text Markup Language)](#html-hyper-text-markup-language)
   - [CSS (Cascading Style Sheet)](#css-cascading-style-sheet)
   - [SASS (Syntatically Awsome Style Sheet)](#sass-syntatically-awsome-style-sheet)
+  - [Less](#less)
+  - [Stylus](#stylus)
   - [JavaScript (JS)](#javascript-js)
   - [TypeScript (TS)](#typescript-ts)
   - [C](#c)
@@ -61,7 +63,10 @@
 CSS 전처리기, Less, Stylus 와 함께 CSS 전처리기 3대장을 맡고 있다
 >컴퓨터 과학에서 전처리기(前處理器) 또는 프리컴파일러영어: preprocessor)는 입력 데이터를 처리하여 다른 프로그램에 대한 입력으로서 사용되는 출력물을 만들어내는 프로그램이다.
 >-Wikipedia-
-[//]: # (TODO: Less, Stylus 추가하기)
+
+#### Less
+
+#### Stylus
 
 #### JavaScript (JS)
 
@@ -85,9 +90,15 @@ C 언어에서 객체 지향 언어로 발전한게 C++이다
 
 #### Java
 
+주로 웹이나 모바일 에플리케이션 개발에 쓰이는 객체 지향 언어, 언어 구조는 C 언어와 비슷하다
+
 #### Python
 
+입문용으로 많이 쓰이는 프로그래밍 언어, 그치만 웹 프로그래밍 (Django), 데이터 분석, 머신러닝에도 활용 될 정도로 강력한 언어이다
+
 #### C Sharp (C#)
+
+
 
 #### Ruby
 
