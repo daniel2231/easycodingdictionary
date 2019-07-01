@@ -52,11 +52,11 @@
 
 #### HTML (Hyper Text Markup Language)
 
-웹사이트를 만들때 쓰이는 마크업 언어, 웹사이트의 뼈대라고 할 수 있다.
+웹사이트를 만들 때 쓰이는 마크업 언어, 웹사이트의 뼈대라고 할 수 있다.
 
 #### CSS (Cascading Style Sheet)
 
-웹사이트를 꾸밀때 쓰이는 스타일 시트 언어.
+웹사이트를 꾸밀 때 쓰이는 스타일 시트 언어.
 
 #### SASS (Syntatically Awsome Style Sheet)
 
@@ -110,11 +110,17 @@ C 언어에서 객체 지향 언어로 발전한게 C++이다.
 >Ruby on Rails?
 >Ruby on Rails는 Ruby를 사용하는 웹 프레임워크이다.
 
-#### PHP
+#### PHP (PHP:Hypertext Preprocessor)
+
+C 언어 기반으로 만들어진 서버 사이드 스크립팅 언어이다. HTML코드 안에 PHP 코드를 추가하면 서버에서 PHP 코드를 해석하여 동적 웹페이지를 만들어준다. 
 
 #### Lisp
 
+LISt Processing의 줄임말, 주로 인공지능 분야에 많이 쓰인다. 
+
 #### Perl
+
+Practical Extraction and Report Language의 약자로서, 스크립트 언어이고, 문법은 C Shell과 비슷하고, C언어의 문장구조와 비슷하다. 주로 텍스트 파일에서 정보를 추출해 Report를 출력할때, 그리고 데이터베이스 관리할때 쓰인다. 
 
 ### 2. 프레임워크
 
@@ -122,23 +128,25 @@ C 언어에서 객체 지향 언어로 발전한게 C++이다.
 
 #### Angular.js
 
-#### Ember.js
+자바스크립트로 만들어진 MVC/MVVM 프레임워크, 구글에서 만들었으며, JQuery와 뛰어난 호완성 덕분에 많이 쓰인다. 
 
 #### Backbone.js
 
-#### VUE.js
+#### Bootstrap
 
-#### React.js
+#### Ember.js
 
 #### Express.js
 
-#### Bootstrap
-
 #### Foundation
+
+#### Pure
+
+#### React.js
 
 #### Semantic UI
 
-#### Pure
+#### VUE.js
 
 #### **2. 백엔드 프레임워크**
 
