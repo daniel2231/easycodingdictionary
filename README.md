@@ -132,6 +132,8 @@ Practical Extraction and Report Language의 약자로서, 스크립트 언어이
 
 #### Backbone.js
 
+
+
 #### Bootstrap
 
 #### Ember.js
@@ -158,4 +160,20 @@ Practical Extraction and Report Language의 약자로서, 스크립트 언어이
 
 #### Spring
 
-### 3. 기타
+### 3. 자주 쓰이는 용어
+
+#### Database
+
+#### Web Developer (웹 개발자)
+
+#### Quality Assuarance (QA)
+
+#### DevOps
+
+### 4. 기타
+
+#### Visual Studio Code (VS Code)
+
+#### Atom
+
+#### Visual Studio
